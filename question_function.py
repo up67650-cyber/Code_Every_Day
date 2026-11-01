@@ -1,4 +1,4 @@
-#Q1  Write a function that ask a number from user and prints if that
+#Q1.  Write a function that ask a number from user and prints if that
 # number is odd or even.
 # def number():
 #     num = int(input("Enter a number"))
@@ -9,7 +9,7 @@
 # number()
 
 
-#Q2  Write a function that print all the factors of a number entered by user.
+#Q2.  Write a function that print all the factors of a number entered by user.
 
 # def factors():
 #     num = int(input("Enter a number"))
@@ -19,7 +19,7 @@
 # factors ()
 
 
-#Q3  Write a function called add that takes two numbers as parameters
+#Q3.  Write a function called add that takes two numbers as parameters
 # and prints their sum.
 
 # def add (n1,n2):
@@ -28,7 +28,7 @@
 # add (10,20)
 
 
-#Q4  Write a function called rectangle_area that takes length and breadth
+#Q4.  Write a function called rectangle_area that takes length and breadth
 # as parameters and prints the area.
 
 # def rectangle(length,breadth):
@@ -37,7 +37,7 @@
 
 # rectangle (10,30)
 
-# Q5 Write a function called find_max that takes three numbers as
+# Q5. Write a function called find_max that takes three numbers as
 # parameters and prints the largest one.
 
 # def find_max(n1,n2,n3):
@@ -48,3 +48,4 @@
 #     else:
 #         print(n3)
 # find_max (2,4,1)
+
