@@ -19,5 +19,11 @@
 
 
 # def double_ends(l):
-#     return [l[0]] + l + [l[-1]]
+#     return [l[0]] + l + [l[-1]
 
+p = 9
+q = 2
+p = p % q
+q = q ** p
+p, q = q, p
+print(q,p)
